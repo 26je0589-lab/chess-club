@@ -1,0 +1,5 @@
+BEGIN SUMMARY
+the total number of students is 120
+the average mark is 71
+the highest mark is 98
+END SUMMARY

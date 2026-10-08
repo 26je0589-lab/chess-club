@@ -1,0 +1,10 @@
+The shell is is the program that reads your commands.
+Every every command you type is interpreted.
+A pipeline joins two commands together.
+The kernel manages the the hardware directly.
+Nothing is repeated on this line.
+We we should be careful with rm.
+The last word of this line is the
+the first word of this one.
+Sorting makes duplicates adjacent adjacent.
+Permissions apply to user, group and others.

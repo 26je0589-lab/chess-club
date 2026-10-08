@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+for f in "${files[@]}"; do
+echo "case: $f"
+done

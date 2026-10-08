@@ -1,0 +1,10 @@
+# application settings
+log_level=DEBUG
+max_retries=3
+timeout=30
+log_path=/var/log/app.log
+debug_mode=DEBUG
+workers=4
+log_rotate=DEBUG
+fallback=DEBUG_then_DEBUG
+cache_size=256

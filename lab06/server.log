@@ -1,0 +1,8 @@
+10.14.7.22 GET /index.html 200 4523
+10.14.9.6 POST /login 302 891
+10.14.7.22 GET /api/marks 500 233
+10.14.3.41 GET /notice 200 1204
+10.14.9.6 GET /index.html 404 512
+10.14.7.22 POST /login 500 764
+10.14.3.41 GET /api/marks 500 199
+10.14.7.22 GET /search 500 88

@@ -1,0 +1,10 @@
+Aarav Sharma, aarav.sharma@iitism.ac.in, 9876543210
+Diya Patel, diya_patel@gmail.com, 8123456789
+Kabir Singh, kabir@iitism.ac.in, 7012345678
+Meera Nair, meera.nair@yahoo.co.in, 09876543211
+Rohan Das, rohan.das@iitism.ac.in, 98765 43210
+Sara Khan, sara.khan@iitism.ac.in, 6011223344
+Vivaan Rao, vivaan-rao@outlook.com, +91-9812345678
+Anaya Bose, anaya@iitism.ac.in, 5012345678
+Arjun Menon, arjun.menon@iitism.ac.in, 9123456780
+Isha Reddy, isha.reddy@gmail.com, 8887776665

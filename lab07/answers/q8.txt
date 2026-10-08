@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+if[[ "$score" -gt 90 ]]; then echo "$name grade A"
+elif [[ "$score" -gt 80 ]]; then echo "$name grade B"
+elif [[ "$score" -gt 70 ]]; then echo "$name grade C"
+elif [[ "$score" -gt 50 ]]; then echo "$name grade D"
+else echo "$name grade F"
+fi
+done < marks.txt

@@ -1,0 +1,10 @@
+Preliminary notes for the term.
+Nothing important on this line.
+BEGIN SUMMARY
+the total number of students is 120
+the average mark is 71
+the highest mark is 98
+END SUMMARY
+Closing remarks follow here.
+the appendix is not part of the summary
+Final line of the report.

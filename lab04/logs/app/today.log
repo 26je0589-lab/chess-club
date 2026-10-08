@@ -1,0 +1,2 @@
+connection timeout on socket 5
+retry scheduled

@@ -1,0 +1,5 @@
+Aarav Sharma, 9876543210, CSE
+Diya Patel, 8123456789, ECE
+Kabir Singh, 7012345678, CSE
+Meera Nair, 6011223344, MME
+Arjun Menon, 9123456780, ECE

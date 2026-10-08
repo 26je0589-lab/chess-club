@@ -1,0 +1,10 @@
+# application settings
+log_level=INFO
+max_retries=3
+timeout=30
+log_path=/var/log/app.log
+debug_mode=INFO
+workers=4
+log_rotate=INFO
+fallback=INFO_then_INFO
+cache_size=256

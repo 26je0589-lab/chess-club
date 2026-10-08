@@ -1,0 +1,4 @@
+remember to quote every expansion
+arrays are zero indexed
+$? is overwritten by the next command
+a glob is expanded by the shell, not by the command

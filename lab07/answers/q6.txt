@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+while["$branch" -eq cse]];do
+echo "$name ($roll)"
+done < students.csv

@@ -1,0 +1,5 @@
+   1459 /index.html
+    997 /courses.html
+    824 /images/logo.png
+    613 /faculty.html
+    394 /admin

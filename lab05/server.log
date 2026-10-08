@@ -1,0 +1,6 @@
+INFO the service started normally
+ERROR the database refused the connection
+INFO the cache was warmed
+WARN the disk is nearly full
+ERROR the request timed out
+INFO the backup finished

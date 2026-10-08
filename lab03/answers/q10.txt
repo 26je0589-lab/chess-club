@@ -1,0 +1,4 @@
+archive/incoming/readme.txt
+archive/incoming/scan-a.csv
+archive/incoming/scan-b.csv
+archive/incoming/sub/scan-c.csv

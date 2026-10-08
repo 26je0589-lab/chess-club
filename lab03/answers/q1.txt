@@ -1,0 +1,3 @@
+backup started
+copied 42 files
+backup finished

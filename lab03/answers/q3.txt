@@ -1,0 +1,5 @@
+backup started
+cannot read /var/lib/secret: Permission denied
+copied 42 files
+warning: disk is 91% full
+backup finished

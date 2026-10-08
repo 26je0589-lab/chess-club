@@ -1,0 +1,37 @@
+serving /home/students/26je0589/lab9
+26je0589 - - [01/Oct/2026 09:40:30] "GET / HTTP/1.1" 200 -
+26je0589 - - [01/Oct/2026 09:40:30] code 404, message File not found
+26je0589 - - [01/Oct/2026 09:40:30] "GET /favicon.ico HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 09:41:16] "GET / HTTP/1.1" 200 -
+26je0589 - - [01/Oct/2026 09:44:40] "GET / HTTP/1.1" 200 -
+26je0589 - - [01/Oct/2026 09:45:34] "GET / HTTP/1.1" 200 -
+26je0589 - - [01/Oct/2026 10:12:45] "GET / HTTP/1.1" 200 -
+26je0589 - - [01/Oct/2026 10:58:54] "GET / HTTP/1.1" 200 -
+26je0589 - - [01/Oct/2026 10:58:54] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:58:54] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 10:59:15] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:59:15] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 10:59:15] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:59:15] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 10:59:15] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:59:15] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 10:59:28] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:59:28] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 10:59:31] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:59:31] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 10:59:36] code 404, message File not found
+26je0589 - - [01/Oct/2026 10:59:36] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:00:01] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:00:01] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:01:01] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:01:01] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:02:02] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:02:02] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:02:06] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:02:06] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:02:13] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:02:13] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:02:17] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:02:17] "GET /%3Col HTTP/1.1" 404 -
+26je0589 - - [01/Oct/2026 11:02:17] code 404, message File not found
+26je0589 - - [01/Oct/2026 11:02:17] "GET /%3Col HTTP/1.1" 404 -

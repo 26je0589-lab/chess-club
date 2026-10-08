@@ -1,0 +1,3 @@
+archive/2024/logs/mar.log
+archive/2025/data/q2.csv
+archive/2025/logs/feb.log

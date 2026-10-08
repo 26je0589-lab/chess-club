@@ -1,0 +1,6 @@
+INFO starting up
+WARN the disk is nearly full
+ERROR cannot open the socket
+INFO the queue is empty
+ERROR the timeout expired
+INFO shutting down

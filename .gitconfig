@@ -1,0 +1,7 @@
+[user]
+	name = Chitipotu Pragna
+	email = 26je0589@iitism.ac.in
+[init]
+	defaultBranch = main
+[core]
+	editor = vim

@@ -1,0 +1,9 @@
+[TOOLS]
+hammer
+screwdriver
+[FRUIT]
+apple
+banana
+cherry
+[BOOKS]
+dune

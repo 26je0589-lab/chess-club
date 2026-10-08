@@ -1,0 +1,6 @@
+alice 85
+bob 42
+carol 91
+dinesh 58
+eshan 37
+farah 76

@@ -1,0 +1,4 @@
+log_level=INFO
+debug_mode=INFO
+log_rotate=INFO
+fallback=INFO_then_INFO

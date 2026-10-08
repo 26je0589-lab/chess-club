@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1791433556,,"wq"
+|2,0,1791434321,,"wq"
 :q
 |2,0,1791432120,,"q"
 :WQ
@@ -37,30 +37,36 @@
 # Registers:
 
 # File marks:
-'0  2  51  ~/index.html
-|4,48,2,51,1791433556,"~/index.html"
-'1  2  5  ~/.gitignore
-|4,49,2,5,1791433023,"~/.gitignore"
-'2  2  5  ~/.gitignore
-|4,50,2,5,1791433015,"~/.gitignore"
-'3  1  5  ~/style.css
-|4,51,1,5,1791432833,"~/style.css"
-'4  1  9  ~/index.html
-|4,52,1,9,1791432810,"~/index.html"
-'5  1  9  ~/index.html
-|4,53,1,9,1791432810,"~/index.html"
-'6  1  6  ~/style.css
-|4,54,1,6,1791432456,"~/style.css"
+'0  3  37  ~/index.html
+|4,48,3,37,1791434321,"~/index.html"
+'1  2  51  ~/index.html
+|4,49,2,51,1791433556,"~/index.html"
+'2  2  51  ~/index.html
+|4,50,2,51,1791433556,"~/index.html"
+'3  2  5  ~/.gitignore
+|4,51,2,5,1791433023,"~/.gitignore"
+'4  2  5  ~/.gitignore
+|4,52,2,5,1791433015,"~/.gitignore"
+'5  1  5  ~/style.css
+|4,53,1,5,1791432833,"~/style.css"
+'6  1  9  ~/index.html
+|4,54,1,9,1791432810,"~/index.html"
 '7  1  9  ~/index.html
-|4,55,1,9,1791432419,"~/index.html"
+|4,55,1,9,1791432810,"~/index.html"
 '8  1  9  ~/index.html
-|4,56,1,9,1791432419,"~/index.html"
-'9  1  0  ~/index.html
-|4,57,1,0,1791432274,"~/index.html"
+|4,56,1,9,1791432810,"~/index.html"
+'9  1  9  ~/index.html
+|4,57,1,9,1791432810,"~/index.html"
 
 # Jumplist (newest first):
+-'  3  37  ~/index.html
+|4,39,3,37,1791434321,"~/index.html"
+-'  2  51  ~/index.html
+|4,39,2,51,1791434267,"~/index.html"
 -'  2  51  ~/index.html
 |4,39,2,51,1791433556,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791433488,"~/index.html"
 -'  1  9  ~/index.html
 |4,39,1,9,1791433488,"~/index.html"
 -'  2  5  ~/.gitignore
@@ -68,6 +74,14 @@
 -'  2  5  ~/.gitignore
 |4,39,2,5,1791433023,"~/.gitignore"
 -'  2  5  ~/.gitignore
+|4,39,2,5,1791433023,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433023,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433015,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433015,"~/.gitignore"
+-'  2  5  ~/.gitignore
 |4,39,2,5,1791433015,"~/.gitignore"
 -'  2  5  ~/.gitignore
 |4,39,2,5,1791433015,"~/.gitignore"
@@ -79,6 +93,30 @@
 |4,39,1,0,1791432992,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
 -'  1  5  ~/style.css
 |4,39,1,5,1791432833,"~/style.css"
 -'  1  5  ~/style.css
@@ -143,6 +181,38 @@
 |4,39,1,6,1791432456,"~/style.css"
 -'  1  6  ~/style.css
 |4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
 -'  1  9  ~/index.html
 |4,39,1,9,1791432419,"~/index.html"
 -'  1  9  ~/index.html
@@ -189,86 +259,18 @@
 |4,39,1,0,1791432274,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432095,"~/index.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1791433554	0
-	"	2	51
-	^	2	52
-	.	2	51
+	*	1791434318	0
+	"	3	37
+	^	3	38
+	.	3	37
 	+	1	10
 	+	2	51
+	+	4	0
+	+	3	37
 
 > ~/.gitignore
 	*	1791433020	0

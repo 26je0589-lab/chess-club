@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1791432833,,"wq"
+|2,0,1791433556,,"wq"
 :q
 |2,0,1791432120,,"q"
 :WQ
@@ -37,34 +37,108 @@
 # Registers:
 
 # File marks:
-'0  1  5  ~/style.css
-|4,48,1,5,1791432833,"~/style.css"
-'1  1  9  ~/index.html
-|4,49,1,9,1791432810,"~/index.html"
-'2  1  6  ~/style.css
-|4,50,1,6,1791432456,"~/style.css"
-'3  1  9  ~/index.html
-|4,51,1,9,1791432419,"~/index.html"
-'4  1  0  ~/index.html
-|4,52,1,0,1791432274,"~/index.html"
-'5  1  0  ~/index.html
-|4,53,1,0,1791432274,"~/index.html"
-'6  1  0  ~/index.html
-|4,54,1,0,1791432095,"~/index.html"
-'7  1  0  ~/index.html
-|4,55,1,0,1791432095,"~/index.html"
-'8  1  0  ~/index.html
-|4,56,1,0,1791432095,"~/index.html"
+'0  2  51  ~/index.html
+|4,48,2,51,1791433556,"~/index.html"
+'1  2  5  ~/.gitignore
+|4,49,2,5,1791433023,"~/.gitignore"
+'2  2  5  ~/.gitignore
+|4,50,2,5,1791433015,"~/.gitignore"
+'3  1  5  ~/style.css
+|4,51,1,5,1791432833,"~/style.css"
+'4  1  9  ~/index.html
+|4,52,1,9,1791432810,"~/index.html"
+'5  1  9  ~/index.html
+|4,53,1,9,1791432810,"~/index.html"
+'6  1  6  ~/style.css
+|4,54,1,6,1791432456,"~/style.css"
+'7  1  9  ~/index.html
+|4,55,1,9,1791432419,"~/index.html"
+'8  1  9  ~/index.html
+|4,56,1,9,1791432419,"~/index.html"
 '9  1  0  ~/index.html
-|4,57,1,0,1791432095,"~/index.html"
+|4,57,1,0,1791432274,"~/index.html"
 
 # Jumplist (newest first):
+-'  2  51  ~/index.html
+|4,39,2,51,1791433556,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791433488,"~/index.html"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433023,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433023,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433015,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1791433015,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1791432992,"~/.gitignore"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
 -'  1  5  ~/style.css
 |4,39,1,5,1791432833,"~/style.css"
 -'  1  9  ~/index.html
 |4,39,1,9,1791432810,"~/index.html"
 -'  1  9  ~/index.html
 |4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
 -'  1  6  ~/style.css
 |4,39,1,6,1791432456,"~/style.css"
 -'  1  6  ~/style.css
@@ -77,6 +151,54 @@
 |4,39,1,9,1791432419,"~/index.html"
 -'  1  9  ~/index.html
 |4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1791432274,"~/index.html"
 -'  1  0  ~/index.html
@@ -102,165 +224,58 @@
 -'  1  0  ~/index.html
 |4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432087,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1791432066,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1790832503,"~/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
+|4,39,1,0,1791432095,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1791433554	0
+	"	2	51
+	^	2	52
+	.	2	51
+	+	1	10
+	+	2	51
+
+> ~/.gitignore
+	*	1791433020	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
 
 > ~/style.css
 	*	1791432830	0
@@ -268,13 +283,6 @@
 	^	1	6
 	.	1	5
 	+	1	5
-
-> ~/index.html
-	*	1791432807	0
-	"	1	9
-	^	1	10
-	.	1	9
-	+	1	9
 
 > ~/lab9/index.html
 	*	1790831597	0

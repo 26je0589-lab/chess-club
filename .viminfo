@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1791432456,,"wq"
+|2,0,1791432833,,"wq"
 :q
 |2,0,1791432120,,"q"
 :WQ
@@ -37,34 +37,50 @@
 # Registers:
 
 # File marks:
-'0  1  6  ~/style.css
-|4,48,1,6,1791432456,"~/style.css"
+'0  1  5  ~/style.css
+|4,48,1,5,1791432833,"~/style.css"
 '1  1  9  ~/index.html
-|4,49,1,9,1791432419,"~/index.html"
-'2  1  0  ~/index.html
-|4,50,1,0,1791432274,"~/index.html"
-'3  1  0  ~/index.html
-|4,51,1,0,1791432095,"~/index.html"
+|4,49,1,9,1791432810,"~/index.html"
+'2  1  6  ~/style.css
+|4,50,1,6,1791432456,"~/style.css"
+'3  1  9  ~/index.html
+|4,51,1,9,1791432419,"~/index.html"
 '4  1  0  ~/index.html
-|4,52,1,0,1791432095,"~/index.html"
+|4,52,1,0,1791432274,"~/index.html"
 '5  1  0  ~/index.html
-|4,53,1,0,1791432087,"~/index.html"
+|4,53,1,0,1791432274,"~/index.html"
 '6  1  0  ~/index.html
-|4,54,1,0,1791432087,"~/index.html"
+|4,54,1,0,1791432095,"~/index.html"
 '7  1  0  ~/index.html
-|4,55,1,0,1791432087,"~/index.html"
+|4,55,1,0,1791432095,"~/index.html"
 '8  1  0  ~/index.html
-|4,56,1,0,1791432087,"~/index.html"
+|4,56,1,0,1791432095,"~/index.html"
 '9  1  0  ~/index.html
-|4,57,1,0,1791432066,"~/index.html"
+|4,57,1,0,1791432095,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  5  ~/style.css
+|4,39,1,5,1791432833,"~/style.css"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432810,"~/index.html"
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
 -'  1  6  ~/style.css
 |4,39,1,6,1791432456,"~/style.css"
 -'  1  9  ~/index.html
 |4,39,1,9,1791432419,"~/index.html"
 -'  1  9  ~/index.html
 |4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1791432274,"~/index.html"
 -'  1  0  ~/index.html
@@ -78,6 +94,22 @@
 -'  1  0  ~/index.html
 |4,39,1,0,1791432095,"~/index.html"
 -'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
 |4,39,1,0,1791432087,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1791432087,"~/index.html"
@@ -94,6 +126,18 @@
 -'  1  0  ~/index.html
 |4,39,1,0,1791432066,"~/index.html"
 -'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
+-'  1  0  ~/index.html
 |4,39,1,0,1790832503,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1790832503,"~/index.html"
@@ -101,54 +145,10 @@
 |4,39,1,0,1790832503,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1790832503,"~/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
--'  19  50  ~/lab9/index.html
-|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
 -'  19  50  ~/lab9/index.html
 |4,39,19,50,1790831600,"~/lab9/index.html"
 -'  19  50  ~/lab9/index.html
@@ -263,18 +263,18 @@
 # History of marks within files (newest to oldest):
 
 > ~/style.css
-	*	1791432454	0
-	"	1	6
-	^	1	7
-	.	1	6
-	+	1	6
+	*	1791432830	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
 
 > ~/index.html
-	*	1791432399	0
+	*	1791432807	0
 	"	1	9
 	^	1	10
-	.	1	10
-	+	1	10
+	.	1	9
+	+	1	9
 
 > ~/lab9/index.html
 	*	1790831597	0

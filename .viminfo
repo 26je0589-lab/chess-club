@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1790832503,,"wq"
+|2,0,1791432456,,"wq"
+:q
+|2,0,1791432120,,"q"
 :WQ
 |2,0,1790832500,,"WQ"
 :wq!
@@ -21,8 +23,6 @@
 |2,0,1790226366,,"Wq"
 :qa!
 |2,0,1790222358,,"qa!"
-:q
-|2,0,1790222328,,"q"
 :qa
 |2,0,1789012499,,"qa"
 
@@ -37,234 +37,244 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/index.html
-|4,48,1,0,1790832503,"~/index.html"
-'1  19  50  ~/lab9/index.html
-|4,49,19,50,1790831600,"~/lab9/index.html"
-'2  18  4  ~/lab9/index.html
-|4,50,18,4,1790829755,"~/lab9/index.html"
-'3  15  4  ~/lab9/index.html
-|4,51,15,4,1790829755,"~/lab9/index.html"
-'4  1  0  ~/lab9/index.html
-|4,52,1,0,1790828290,"~/lab9/index.html"
-'5  1  0  ~/lab9/index.html
-|4,53,1,0,1790828290,"~/lab9/index.html"
-'6  1  0  ~/lab9/index.html
-|4,54,1,0,1790828290,"~/lab9/index.html"
-'7  1  0  ~/lab9/index.html
-|4,55,1,0,1790828290,"~/lab9/index.html"
-'8  35  0  ~/lab08/gradebook.sh
-|4,56,35,0,1790227414,"~/lab08/gradebook.sh"
-'9  2  0  ~/lab08/organise.sh
-|4,57,2,0,1790226500,"~/lab08/organise.sh"
+'0  1  6  ~/style.css
+|4,48,1,6,1791432456,"~/style.css"
+'1  1  9  ~/index.html
+|4,49,1,9,1791432419,"~/index.html"
+'2  1  0  ~/index.html
+|4,50,1,0,1791432274,"~/index.html"
+'3  1  0  ~/index.html
+|4,51,1,0,1791432095,"~/index.html"
+'4  1  0  ~/index.html
+|4,52,1,0,1791432095,"~/index.html"
+'5  1  0  ~/index.html
+|4,53,1,0,1791432087,"~/index.html"
+'6  1  0  ~/index.html
+|4,54,1,0,1791432087,"~/index.html"
+'7  1  0  ~/index.html
+|4,55,1,0,1791432087,"~/index.html"
+'8  1  0  ~/index.html
+|4,56,1,0,1791432087,"~/index.html"
+'9  1  0  ~/index.html
+|4,57,1,0,1791432066,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  6  ~/style.css
+|4,39,1,6,1791432456,"~/style.css"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1791432419,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432274,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432095,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432087,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1791432066,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1790832503,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1790832503,"~/index.html"
 -'  19  50  ~/lab9/index.html
 |4,39,19,50,1790831600,"~/lab9/index.html"
 -'  19  50  ~/lab9/index.html
 |4,39,19,50,1790831600,"~/lab9/index.html"
--'  18  4  ~/lab9/index.html
-|4,39,18,4,1790829811,"~/lab9/index.html"
--'  18  4  ~/lab9/index.html
-|4,39,18,4,1790829811,"~/lab9/index.html"
--'  15  4  ~/lab9/index.html
-|4,39,15,4,1790829755,"~/lab9/index.html"
--'  15  4  ~/lab9/index.html
-|4,39,15,4,1790829755,"~/lab9/index.html"
--'  1  0  ~/lab9/index.html
-|4,39,1,0,1790828360,"~/lab9/index.html"
--'  1  0  ~/lab9/index.html
-|4,39,1,0,1790828360,"~/lab9/index.html"
--'  1  0  ~/lab9/index.html
-|4,39,1,0,1790828360,"~/lab9/index.html"
--'  1  0  ~/lab9/index.html
-|4,39,1,0,1790828360,"~/lab9/index.html"
--'  1  0  ~/lab9/index.html
-|4,39,1,0,1790828290,"~/lab9/index.html"
--'  1  0  ~/lab9/index.html
-|4,39,1,0,1790828290,"~/lab9/index.html"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  35  0  ~/lab08/gradebook.sh
-|4,39,35,0,1790227414,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  36  0  ~/lab08/gradebook.sh
-|4,39,36,0,1790227015,"~/lab08/gradebook.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  2  0  ~/lab08/organise.sh
-|4,39,2,0,1790226500,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
--'  1  0  ~/lab08/organise.sh
-|4,39,1,0,1790226450,"~/lab08/organise.sh"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
+-'  19  50  ~/lab9/index.html
+|4,39,19,50,1790831600,"~/lab9/index.html"
 
 # History of marks within files (newest to oldest):
 
+> ~/style.css
+	*	1791432454	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
 > ~/index.html
-	*	1790832500	0
-	"	1	0
+	*	1791432399	0
+	"	1	9
+	^	1	10
+	.	1	10
+	+	1	10
 
 > ~/lab9/index.html
 	*	1790831597	0

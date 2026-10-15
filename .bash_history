@@ -353,3 +353,87 @@ tar -czf 26je0589-lab9.tar.gz 26je0589-lab9
 ls
 vi index.html
 cat index.html
+git config --global user.name "Chitipotu Pragna"
+git config --global user.email "26je0589@iitism.ac.in"
+git config --global init.defaultBranch main
+git config --global core.editor vim
+mkdir ~/gitlab
+cp handouts/gitlab-starter/* ~/gitlab/
+ls
+git init
+git status
+git add .
+git status
+git commit -m "Add starter page"
+vi index.html
+vi
+vi index.html
+ls
+vi index.html
+vi style.css
+gt diff
+git diff
+git commit -am "Add club name and colour"
+touch server.log
+git status
+git add .
+git status
+git add index.html
+gut status
+git status
+git add index.html
+git status
+vi index.html
+vi style.css
+git diff
+git commit -am "Add club name and colour"
+touch .gitignore
+vi .gitignore
+git status
+git commit 
+git add .gitignore
+git status
+vi index.html
+git commit -am "Add taglne"
+git commit --amend -m "Add a tagline for the club"
+git log --oneline
+git commit --amend -m "Add club name and colour"
+git log --oneline
+git commit -am "Try a red header"
+git log --oneline
+git commit --amend -m "Add a tagline for the club"
+git log --oneline
+git commit -am "Try a red header"
+git log --oneline
+git switch -c feature/schedule
+vi index.html
+git commit -am "Added a new event"
+git log --oneline --graph --all
+git switch main
+grep -c "17:30" index.html
+git merge feature/schedule
+git branch -d feature/schedule
+git switch -c feature/tagline
+vi index.html
+git commit --amend -m "Changed tagline of the club"
+git switch main
+vi index.html
+git commit --amend -m "Changed tagline of the club"
+git merge feature/tagline-CONFLICT
+git merge feature/tagline - CONFLICT
+git merge feature/tagline 
+git merge feature/tagline
+git status
+git log --oneline
+vi index.html
+grep -n '<<<<<<<' index.html
+git add index.html
+git commit
+git log --oneline --graph --all
+git branch -d feature/tagline
+git tag -a v1.0 -m "First version of the club page"
+git tag
+git show v1.0
+cd ~
+cp -r gitlab 26JE0589-gitlab
+tar -czf 26JE0589-gitlab.tar.gz 26JE0589-gitlab

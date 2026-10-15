@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1791434321,,"wq"
+|2,0,1792038777,,"wq"
+:WQ
+|2,0,1791434858,,"WQ"
 :q
 |2,0,1791432120,,"q"
-:WQ
-|2,0,1790832500,,"WQ"
 :wq!
 |2,0,1790227414,,"wq!"
 :Wq
@@ -37,240 +37,259 @@
 # Registers:
 
 # File marks:
-'0  3  37  ~/index.html
-|4,48,3,37,1791434321,"~/index.html"
-'1  2  51  ~/index.html
-|4,49,2,51,1791433556,"~/index.html"
-'2  2  51  ~/index.html
-|4,50,2,51,1791433556,"~/index.html"
-'3  2  5  ~/.gitignore
-|4,51,2,5,1791433023,"~/.gitignore"
-'4  2  5  ~/.gitignore
-|4,52,2,5,1791433015,"~/.gitignore"
-'5  1  5  ~/style.css
-|4,53,1,5,1791432833,"~/style.css"
-'6  1  9  ~/index.html
-|4,54,1,9,1791432810,"~/index.html"
-'7  1  9  ~/index.html
-|4,55,1,9,1791432810,"~/index.html"
-'8  1  9  ~/index.html
-|4,56,1,9,1791432810,"~/index.html"
-'9  1  9  ~/index.html
-|4,57,1,9,1791432810,"~/index.html"
+'0  22  0  ~/.git/COMMIT_EDITMSG
+|4,48,22,0,1792038777,"~/.git/COMMIT_EDITMSG"
+'1  4  7  ~/gitlab/README.md
+|4,49,4,7,1792038700,"~/gitlab/README.md"
+'2  4  7  ~/gitlab/README.md
+|4,50,4,7,1792038690,"~/gitlab/README.md"
+'3  1  0  ~/.git/COMMIT_EDITMSG
+|4,51,1,0,1791435177,"~/.git/COMMIT_EDITMSG"
+'4  1  0  ~/.git/COMMIT_EDITMSG
+|4,52,1,0,1791435177,"~/.git/COMMIT_EDITMSG"
+'5  2  83  ~/index.html
+|4,53,2,83,1791435094,"~/index.html"
+'6  1  0  ~/.git/MERGE_MSG
+|4,54,1,0,1791434864,"~/.git/MERGE_MSG"
+'7  2  83  ~/index.html
+|4,55,2,83,1791434687,"~/index.html"
+'8  2  56  ~/index.html
+|4,56,2,56,1791434535,"~/index.html"
+'9  2  56  ~/index.html
+|4,57,2,56,1791434535,"~/index.html"
 
 # Jumplist (newest first):
--'  3  37  ~/index.html
-|4,39,3,37,1791434321,"~/index.html"
--'  2  51  ~/index.html
-|4,39,2,51,1791434267,"~/index.html"
--'  2  51  ~/index.html
-|4,39,2,51,1791433556,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791433488,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791433488,"~/index.html"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433023,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433023,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433023,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433023,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433015,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433015,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433015,"~/.gitignore"
--'  2  5  ~/.gitignore
-|4,39,2,5,1791433015,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1791432992,"~/.gitignore"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  5  ~/style.css
-|4,39,1,5,1791432833,"~/style.css"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432810,"~/index.html"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  6  ~/style.css
-|4,39,1,6,1791432456,"~/style.css"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  9  ~/index.html
-|4,39,1,9,1791432419,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1791432274,"~/index.html"
+-'  22  0  ~/.git/COMMIT_EDITMSG
+|4,39,22,0,1792038777,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1792038732,"~/.git/COMMIT_EDITMSG"
+-'  4  7  ~/gitlab/README.md
+|4,39,4,7,1792038700,"~/gitlab/README.md"
+-'  4  7  ~/gitlab/README.md
+|4,39,4,7,1792038700,"~/gitlab/README.md"
+-'  4  7  ~/gitlab/README.md
+|4,39,4,7,1792038690,"~/gitlab/README.md"
+-'  4  7  ~/gitlab/README.md
+|4,39,4,7,1792038690,"~/gitlab/README.md"
+-'  1  0  ~/gitlab/README.md
+|4,39,1,0,1792038598,"~/gitlab/README.md"
+-'  1  0  ~/gitlab/README.md
+|4,39,1,0,1792038598,"~/gitlab/README.md"
+-'  1  0  ~/gitlab/README.md
+|4,39,1,0,1792038598,"~/gitlab/README.md"
+-'  1  0  ~/gitlab/README.md
+|4,39,1,0,1792038598,"~/gitlab/README.md"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1791435177,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1791435177,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1791435177,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1791435177,"~/.git/COMMIT_EDITMSG"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791435094,"~/index.html"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1791434864,"~/.git/MERGE_MSG"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  83  ~/index.html
+|4,39,2,83,1791434687,"~/index.html"
+-'  2  56  ~/index.html
+|4,39,2,56,1791434535,"~/index.html"
+-'  2  56  ~/index.html
+|4,39,2,56,1791434535,"~/index.html"
+-'  2  56  ~/index.html
+|4,39,2,56,1791434535,"~/index.html"
+-'  2  56  ~/index.html
+|4,39,2,56,1791434535,"~/index.html"
+-'  2  56  ~/index.html
+|4,39,2,56,1791434535,"~/index.html"
+-'  2  56  ~/index.html
+|4,39,2,56,1791434535,"~/index.html"
 
 # History of marks within files (newest to oldest):
 
+> ~/.git/COMMIT_EDITMSG
+	*	1792038775	0
+	"	22	0
+	^	22	0
+	.	21	1
+	+	21	1
+
+> ~/gitlab/README.md
+	*	1792038693	0
+	"	4	7
+	^	4	8
+	.	4	7
+	+	4	7
+
 > ~/index.html
-	*	1791434318	0
-	"	3	37
-	^	3	38
-	.	3	37
+	*	1791435091	0
+	"	2	83
+	^	2	84
+	.	2	83
 	+	1	10
 	+	2	51
 	+	4	0
 	+	3	37
+	+	2	83
+
+> ~/.git/MERGE_MSG
+	*	1791434861	0
+	"	1	0
 
 > ~/.gitignore
 	*	1791433020	0
